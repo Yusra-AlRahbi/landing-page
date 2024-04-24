@@ -51,8 +51,8 @@ After downloading you can use the project files by unzip the file then open it o
 
 [(Back to top)](#table-of-contents)
 
-![Page Preview 1](./assets/images/1.png)
-![Page Preview2](./assets/images/2.png)
-![Page Preview3](./assets/images/3.png)
-![Page Preview4](./assets/images/4.png)
-![Page Preview5](./assets/images/5.png)
+![Page Preview 1](./landing-page/assets/images/1.png)
+![Page Preview2](./landing-page/assets/images/2.png)
+![Page Preview3](./landing-page/assets/images/3.png)
+![Page Preview4](./landing-page/assets/images/4.png)
+![Page Preview5](./landing-page/assets/images/5.png)
